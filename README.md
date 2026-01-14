@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi there 👋I'm Asra Musheer
 
-<!--
-**asramusheer/asramusheer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 MERN Stack Developer  
+🎯 Frontend-focused Developer  
+📍 Nagpur, India  
 
-Here are some ideas to get you started:
+### 🚀 Skills
+- HTML5, CSS3, JavaScript  
+- React.js  
+- Bootstrap, Tailwind CSS  
+- Git & GitHub  
+- Node.js (learning)  
+- Express.js (learning)  
+- MongoDB (learning)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 🌱 Currently Learning
+- Advanced React  
+- Backend Development (Node + MongoDB)  
+- Basic DSA  
+
+
+### 📫 Connect with me
+- LinkedIn: (www.linkedin.com/in/asra-musheer-0b0b76335)
